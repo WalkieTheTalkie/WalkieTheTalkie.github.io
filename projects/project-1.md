@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/arm.png
+image: images/armcode.png
 title: RobotArm
 permalink: projects/robotarm
 # All dates must be YYYY-MM-DD format!
