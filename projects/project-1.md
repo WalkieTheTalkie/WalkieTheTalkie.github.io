@@ -14,10 +14,7 @@ summary: Basic robot arm
 ---
 
 <div class="ui small rounded images">
-  <img class="ui image" src="../images/micromouse-robot.png">
-  <img class="ui image" src="../images/micromouse-robot-2.jpg">
-  <img class="ui image" src="../images/micromouse.jpg">
-  <img class="ui image" src="../images/micromouse-circuit.png">
+  <img class="ui image" src="../images/arm.png">
 </div>
 This is a robotic arm a group and I have developed for computer architecture. We were supposed to hook it up to some joysticks so it could be controlled that way, but it didn't turn out the way it should, mainly because the joysticks were not being detected.
 
